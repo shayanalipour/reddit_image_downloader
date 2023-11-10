@@ -1,0 +1,6 @@
+LOG_DIR = "/home/Desktop/reddit_image_scraper/logs"
+DB_CONFIG = "/home/Desktop/reddit_image_scraper/config/db.json"
+GENERAL_DIR = "/media/Volume/reddit_data"
+DATA_DIR = f"{GENERAL_DIR}/reddit_dump_files"
+IMG_DIR = f"{GENERAL_DIR}/images"
+TMP_DIR = f"{GENERAL_DIR}/tmp"
